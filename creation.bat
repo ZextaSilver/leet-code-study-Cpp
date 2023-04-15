@@ -1,8 +1,8 @@
 @echo off
- md "01.04. Palindrome Permutation LCCI" "88. Merge Sorted Array" "94. Binary Tree Inorder Traversal" "9. Palindrome Number" "101. Symmetric Tree"
+ md "448. Find All Numbers Disappeared in an Array" "404. Sum of Left Leaves" "2319. Check if Matrix Is X-Matrix" "387. First Unique Character in a String" "144. Binary Tree Preorder Traversal"
 
-echo.> 	      "01.04. Palindrome Permutation LCCI\solution.cpp" 
-echo.>        "88. Merge Sorted Array\solution.cpp"
-echo.>        "94. Binary Tree Inorder Traversal\solution.cpp"
-echo.>	      "9. Palindrome Number\solution.cpp"
-echo.>        "101. Symmetric Tree\solution.cpp"
+echo.> 	      "448. Find All Numbers Disappeared in an Array\solution.cpp" 
+echo.>        "404. Sum of Left Leaves\solution.cpp"
+echo.>        "2319. Check if Matrix Is X-Matrix\solution.cpp"
+echo.>	      "387. First Unique Character in a String\solution.cpp"
+echo.>        "144. Binary Tree Preorder Traversal\solution.cpp"
